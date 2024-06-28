@@ -1,3 +1,5 @@
+![Screenshot (131)](https://github.com/Daniyal-vid/E-commerce-bootcamp/assets/161799018/a20974f6-6cf8-4836-9742-694db6017f64)
+![Screenshot (130)](https://github.com/Daniyal-vid/E-commerce-bootcamp/assets/161799018/e4e1d73e-08de-47d7-acce-07c0653767bc)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
